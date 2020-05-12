@@ -2,7 +2,7 @@
 
 Zapbot can send messages to whatsapp groups.
 
-![interface demo](demo/ZapBot_gif.gif)
+![interface demo](Demo/ZapBot_gif.gif)
 
 ## Getting Started
 
