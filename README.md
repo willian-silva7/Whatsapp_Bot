@@ -38,6 +38,7 @@ During Python installation, you need choose the option Add Python to Path
 
 ChromeDriver:
 To see your Google Chrome version, click options in your browser and select Help> About Google Chrome.
+
 Link to download google chrome driver : https://chromedriver.chromium.org/downloads
 
 Selenium:
