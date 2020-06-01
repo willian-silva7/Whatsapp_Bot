@@ -4,11 +4,11 @@ import time
 class WhatsappBot:
   def __init__(self):
     self.mensagem = "_Olá eu sou o ZapBot *Willgnis*_ :robot \n" 
-    self.mensagem2 = "_Caso você ainda não é membro, se junte ao grupo do Discord da Neo Generation: https://discord.gg/4JgZEn3_"
+    self.mensagem2 = "_Assista a esse vídeo no Youtube: https://www.youtube.com/_"
 
-    self.grupos = ["Neo Generation Edopro",
-    "Batalha Semanal.",
-    "Willgnis"]
+    self.grupos = ["Grupo1",
+    "Grupo2",
+    "Grupo3"]
     options = webdriver.ChromeOptions()
     options.add_argument('lang=pt-br')
     self.driver = webdriver.Chrome(executable_path=r'./chromedriver.exe')
